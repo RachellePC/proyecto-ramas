@@ -1,0 +1,23 @@
+.menu{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    background-color: rgb(86, 53, 233);
+    border-radius: 5px;
+    display: flex;
+    }
+    a{
+        font-size: 50px;
+        text-decoration: none;
+        color: whitesmoke;
+    }
+    a:hover{
+        color: rgb(48, 175, 248);
+    }
+    body{
+        background-color: rgb(71, 236, 30);
+    }
+    .sub{
+        display: flex;
+        align-items: flex-end;
+    }

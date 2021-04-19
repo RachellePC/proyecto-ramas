@@ -1,0 +1,19 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "tarea git npm rama menu html css js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "git",
+    "npm",
+    "js",
+    "menu"
+  ],
+  "author": "LechugaBailarina737",
+  "license": "MIT"
+}
